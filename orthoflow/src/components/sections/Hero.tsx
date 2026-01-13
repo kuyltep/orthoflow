@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
           >
             <div className="rounded-xl overflow-hidden shadow-2xl w-64 sm:w-80">
               <img
-                src="/images/app1.webp"
+                src="/images/app1.png"
                 alt="OrthoFlow - Приложение для мониторинга стопы"
                 className="w-full h-auto object-cover"
               />

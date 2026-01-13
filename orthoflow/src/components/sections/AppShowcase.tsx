@@ -33,7 +33,7 @@ const AppShowcase: React.FC = () => {
             className="rounded-xl overflow-hidden shadow-xl w-64 sm:w-72"
           >
             <img
-              src="/images/app1.webp"
+              src="/images/app1.png"
               alt="OrthoFlow - Экран мониторинга давления стопы"
               className="w-full h-auto object-cover"
             />
