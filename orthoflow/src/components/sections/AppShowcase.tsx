@@ -32,8 +32,8 @@ const AppShowcase: React.FC = () => {
             animate={inView1 ? 'visible' : 'hidden'}
             className="rounded-xl overflow-hidden shadow-xl w-64 sm:w-72"
           >
-            <img 
-              src="/images/app1.jpg" 
+            <img
+              src="/images/app1.webp"
               alt="OrthoFlow - Экран мониторинга давления стопы"
               className="w-full h-auto object-cover"
             />
@@ -50,8 +50,8 @@ const AppShowcase: React.FC = () => {
             animate={inView2 ? 'visible' : 'hidden'}
             className="rounded-xl overflow-hidden shadow-xl w-64 sm:w-72"
           >
-            <img 
-              src="/images/app2.jpg" 
+            <img
+              src="/images/app2.webp"
               alt="OrthoFlow - График интенсивности ходьбы"
               className="w-full h-auto object-cover"
             />

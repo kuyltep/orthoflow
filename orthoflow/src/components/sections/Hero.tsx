@@ -24,16 +24,16 @@ const Hero: React.FC = () => {
               <Button variant="outline" size="lg" href="#contact-form">Узнать больше</Button>
             </div>
           </motion.div>
-          <motion.div 
+          <motion.div
             className="relative flex justify-center"
             initial={{ opacity: 0, x: 50 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
             <div className="rounded-xl overflow-hidden shadow-2xl w-64 sm:w-80">
-              <img 
-                src="/images/app1.jpg" 
-                alt="OrthoFlow - Приложение для мониторинга стопы" 
+              <img
+                src="/images/app1.webp"
+                alt="OrthoFlow - Приложение для мониторинга стопы"
                 className="w-full h-auto object-cover"
               />
             </div>
