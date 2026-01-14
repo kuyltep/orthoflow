@@ -1,6 +1,6 @@
 import './App.css';
 import Header from './components/ui/Header';
-// import Footer from './components/ui/Footer';
+import Footer from './components/ui/Footer';
 import Hero from './components/sections/Hero';
 import ProblemSolution from './components/sections/ProblemSolution';
 import HowItWorks from './components/sections/HowItWorks';
@@ -31,7 +31,7 @@ function App() {
           */}
           <CTA />
         </main>
-        {/* <Footer /> */}
+        <Footer />
       </div>
     </div>
   );
