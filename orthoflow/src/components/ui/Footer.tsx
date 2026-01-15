@@ -7,9 +7,9 @@ const Footer: React.FC = () => {
       <Container>
         <div className="flex flex-col md:flex-row items-center justify-between gap-8">
           <div className="flex items-center gap-6 shrink-0 bg-white p-4 rounded-xl shadow-sm">
-            <img src="/images/faise.png" alt="Фонд содействия инновациям" className="h-14 w-auto object-contain" />
+            <img src="/images/faise.png" alt="Фонд содействия инновациям" className="h-22 w-auto object-contain" />
             <div className="w-px h-10 bg-gray-200"></div>
-            <img src="/images/puti.png" alt="Платформа университетского технологического предпринимательства" className="h-14 w-auto object-contain" />
+            <img src="/images/puti.png" alt="Платформа университетского технологического предпринимательства" className="h-22 w-auto object-contain" />
           </div>
 
           <p className="text-white text-sm md:text-base text-center md:text-left font-light leading-relaxed opacity-95">
